@@ -1,0 +1,11 @@
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Domain\bin\Debug\net9.0\ProductManagement.Domain.deps.json
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Domain\bin\Debug\net9.0\ProductManagement.Domain.dll
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Domain\bin\Debug\net9.0\ProductManagement.Domain.pdb
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.AssemblyInfoInputs.cache
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.AssemblyInfo.cs
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.csproj.CoreCompileInputs.cache
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.dll
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Domain\obj\Debug\net9.0\refint\ProductManagement.Domain.dll
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Domain\obj\Debug\net9.0\ProductManagement.Domain.pdb
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Domain\obj\Debug\net9.0\ref\ProductManagement.Domain.dll

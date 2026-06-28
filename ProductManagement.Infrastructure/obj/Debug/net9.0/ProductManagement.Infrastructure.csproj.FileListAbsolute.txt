@@ -1,0 +1,17 @@
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\obj\Debug\net9.0\ProductManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\obj\Debug\net9.0\ProductManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\obj\Debug\net9.0\ProductManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\obj\Debug\net9.0\ProductManagement.Infrastructure.AssemblyInfo.cs
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\obj\Debug\net9.0\ProductManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\bin\Debug\net9.0\ProductManagement.Infrastructure.deps.json
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\bin\Debug\net9.0\ProductManagement.Infrastructure.dll
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\bin\Debug\net9.0\ProductManagement.Infrastructure.pdb
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\bin\Debug\net9.0\ProductManagement.Application.dll
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\bin\Debug\net9.0\ProductManagement.Domain.dll
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\bin\Debug\net9.0\ProductManagement.Application.pdb
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\bin\Debug\net9.0\ProductManagement.Domain.pdb
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\obj\Debug\net9.0\ProductM.6D34A66C.Up2Date
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\obj\Debug\net9.0\ProductManagement.Infrastructure.dll
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\obj\Debug\net9.0\refint\ProductManagement.Infrastructure.dll
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\obj\Debug\net9.0\ProductManagement.Infrastructure.pdb
+D:\GitHub Project\ProductManagementSystem\ProductManagement.Infrastructure\obj\Debug\net9.0\ref\ProductManagement.Infrastructure.dll
